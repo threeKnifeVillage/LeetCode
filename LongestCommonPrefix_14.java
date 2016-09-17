@@ -2,7 +2,7 @@
 public class Solution {
 
 	/**
-	 * 通过两两相比确定公共前缀，2ms通过全部用例
+	 * 通过两两相比确定公共前缀
 	 * @param strs
 	 * @return
 	 */
