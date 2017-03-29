@@ -11,7 +11,6 @@ public class Solution {
             }
             
             majorityElementMap.put(num, appearCount + 1);
-            
             if (appearCount + 1 > count) {
                 return num;
             }
