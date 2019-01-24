@@ -1,0 +1,1664 @@
+  "category": "event_v3",
+  "tag": "client_show",
+  "enter_from": "personal_homepage",
+  "group_id": "6649291212761074945",
+  "nt": "4",
+  "display": "",
+  "music_id": "6649291223590767362",
+  "_event_v3": "1",
+  "author_id": "6616531167724421122",
+  "request_id": "20190124065808010115043027537361",
+  "content": "video"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "client_show",
+  "enter_from": "personal_homepage",
+  "group_id": "6633614432284970242",
+  "nt": "4",
+  "display": "",
+  "music_id": "6633614434856078081",
+  "_event_v3": "1",
+  "author_id": "6616531167724421122",
+  "request_id": "20190124065808010115043027537361",
+  "content": "video"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "homepage",
+  "label": "show",
+  "nt": "4"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "homepage",
+  "label": "click",
+  "nt": "4"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "homepage_hot_click",
+  "click_method": "enter",
+  "nt": "4",
+  "_event_v3": "1"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "stay_time",
+  "duration": "943",
+  "enter_from": "personal_homepage",
+  "group_id": "",
+  "nt": "4",
+  "city_info": "",
+  "_event_v3": "1",
+  "author_id": ""
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "enter_page",
+  "nt": "4",
+  "_event_v3": "1",
+  "page": "homepage_hot"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "click_video_play",
+  "nt": "4",
+  "_event_v3": "1"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "share_highlight",
+  "label": "homepage_hot",
+  "nt": "4",
+  "repeat": "double",
+  "value": "6649338137786977538"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "share_highlight",
+  "enter_from": "homepage_hot",
+  "show_content": "chat_merge",
+  "group_id": "6649338137786977538",
+  "nt": "4",
+  "_event_v3": "1",
+  "author_id": "6627442521482969090"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "slide_up",
+  "label": "homepage_hot",
+  "from_group_id": "6649338137786977538",
+  "to_group_id": "6649500391006375173",
+  "nt": "4",
+  "author_id": "6627442521482969090",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "homepage_hot_slide_up",
+  "from_group_id": "6649338137786977538",
+  "to_group_id": "6649500391006375173",
+  "nt": "4",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "enter_play_method": "manul_play",
+  "author_id": "6627442521482969090",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "show",
+  "label": "homepage_hot",
+  "is_photo": "0",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "display": "full",
+  "enter_method": "slide",
+  "group_id": "6649500391006375173",
+  "to_user_id": "6615821913358876677",
+  "author_id": "6615821913358876677",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6649500391006375173",
+  "order": "1"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_show",
+  "feed_count": "0",
+  "enter_from": "homepage_hot",
+  "group_id": "6649500391006375173",
+  "nt": "4",
+  "_event_v3": "1",
+  "log_pb": "{"impr_id":"20190124065805010115019221437431"}",
+  "author_id": "6615821913358876677",
+  "_staging_flag": "1",
+  "order": "1"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "client_show",
+  "enter_from": "homepage_hot",
+  "group_id": "6649500391006375173",
+  "nt": "4",
+  "display": "",
+  "music_id": "6649508907884481285",
+  "_event_v3": "1",
+  "author_id": "6615821913358876677",
+  "request_id": "20190124065805010115019221437431",
+  "content": "video"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_request",
+  "label": "perf_monitor",
+  "duration": "0",
+  "group_id": "6649500391006375173",
+  "nt": "4",
+  "is_first": "1",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6649500391006375173"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_request",
+  "duration": "0",
+  "group_id": "6649500391006375173",
+  "nt": "4",
+  "is_first": "1",
+  "_event_v3": "1",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "play_time",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "fps": "-1.0",
+  "enter_fullscreen": "",
+  "player_type": "TT",
+  "duration": "14765",
+  "group_id": "6649338137786977538",
+  "content_source": "",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "author_id": "6627442521482969090"
+****************************************************************************************************
+  "log_type": "app_perf",
+  "obj": {
+    "duration": "0",
+    "group_id": "6649500391006375173",
+    "is_first": "1",
+    "request_id": "20190124065805010115019221437431",
+    "nt": 4,
+    "local_time": 1548313173,
+    "event": "video_request",
+    "session_id": "a316a4d9-9edd-469a-9720-e0e7858f71d4",
+    "scene": "low_retain"
+  }
+****************************************************************************************************
+{"log_type":"video_playq","obj":{"errt":0,"re_f_audioframet":1548313088672,"df":"-1","pt":1548313088883,"vds":8648399,"pv":"3.0","tran_ft":1548313089157,"lt":0,"download_speed":206413,"hw":0,"internal_ip":"127.0.0.1","hijack":0,"de_bu_acu_t":0,"prepare_call_t":1548313088380,"surface_set_time":1548313158838,"finish":1,"re_f_videoframet":1548313088672,"tag":"","video_codec_nameId":3,"audio_device_start_t":1548313089303,"height":960,"video_device_opened_t":1548313089510,"decoder_type":0,"dbc":0,"wifi_identify":"d9c471b76710fca876003681b785db87","video_preload_size":0,"de_f_videoframet":1548313089294,"play_back_state":0,"video_length":10076,"cache_file":0,"audio_device_opened_t":1548313089416,"vd":10177,"et":1548313173681,"bft":0,"errc":0,"codec":"","is_start_play_automatically":0,"player_create_exception":"","at":0,"ex":{"log":""},"cur_play_pos":8557,"vs":0,"vt":1548313108126,"video_device_start_t":1548313089486,"vu":[{"gid":"","url":"http:\/\/127.0.0.1:37057?rk=v07025d90000bh3j3i3a28j51qlmshr0_h264_540p_1615873
+  "category": "event_v3",
+  "tag": "video_play",
+  "feed_count": "0",
+  "is_photo": "0",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "is_h265": "0",
+  "previous_page": "",
+  "enter_fullscreen": "0",
+  "player_type": "TT",
+  "group_id": "6649500391006375173",
+  "content_source": "",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "enter_play_method": "manul_play",
+  "author_id": "6615821913358876677",
+  "request_id": "20190124065805010115019221437431",
+  "order": "1"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "first_frame_loadtime",
+  "label": "perf_monitor",
+  "cache_size": "4064078",
+  "nt": "4",
+  "player_prepare_duration": "62",
+  "is_first": "false",
+  "is_cache": "1",
+  "player_type": "TT",
+  "player_uirender_duration": "18",
+  "videoheader_chache_duration": "1",
+  "duration": "418",
+  "videochache_prepare_duration": "15",
+  "firstframe_render_duration": "348",
+  "value": "6649500391006375173",
+  "status": "1"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "first_frame_loadtime",
+  "cache_size": "4064078",
+  "nt": "4",
+  "player_prepare_duration": "62",
+  "is_first": "false",
+  "is_cache": "1",
+  "player_type": "TT",
+  "player_uirender_duration": "18",
+  "videoheader_chache_duration": "1",
+  "duration": "418",
+  "videochache_prepare_duration": "15",
+  "group_id": "6649500391006375173",
+  "firstframe_render_duration": "348",
+  "_event_v3": "1",
+  "status": "1"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_request_response",
+  "label": "perf_monitor",
+  "internet_speed": "4998",
+  "video_quality": "20",
+  "nt": "4",
+  "is_cache": "1",
+  "is_first": "1",
+  "is_success": "1",
+  "duration": "418",
+  "group_id": "6649500391006375173",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6649500391006375173"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_request_response",
+  "duration": "418",
+  "internet_speed": "4998",
+  "group_id": "6649500391006375173",
+  "video_quality": "20",
+  "nt": "4",
+  "is_cache": "1",
+  "is_first": "1",
+  "_event_v3": "1",
+  "is_success": "1",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "log_type": "app_perf",
+  "obj": {
+    "duration": "85466",
+    "internet_speed": "4998",
+    "group_id": "6649500391006375173",
+    "video_quality": "20",
+    "is_cache": "1",
+    "is_first": "1",
+    "is_success": "1",
+    "request_id": "20190124065805010115019221437431",
+    "nt": 4,
+    "event": "video_request_response",
+    "session_id": "a316a4d9-9edd-469a-9720-e0e7858f71d4",
+    "scene": "low_retain",
+    "local_time": 1548313174
+  }
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_play_quality",
+  "label": "perf_monitor",
+  "video_duration": "22",
+  "access": "WIFI",
+  "nt": "4",
+  "tcp_rtt": "36",
+  "tcp_bandwith": "2364",
+  "bitrate_set": [
+    {
+      "bit_rate": 1354630,
+      "gear_name": "normal_540",
+      "is_h265": 0,
+      "quality_type": 20
+    },
+    {
+      "bit_rate": 728543,
+      "gear_name": "lower_540",
+      "is_h265": 0,
+      "quality_type": 24
+    },
+    {
+      "bit_rate": 517687,
+      "gear_name": "lowest_540",
+      "is_h265": 0,
+      "quality_type": 25
+    }
+  ],
+  "duration": "418",
+  "multi_player": ,
+  "video_bitrate": "1354630",
+  "signal": "-65",
+  "value": "6649500391006375173",
+  "order": "1",
+  "height": "1280",
+  "internet_speed": "4998",
+  "is_photo": "0",
+  "use_model": "0",
+  "auto_bitrate": "1",
+  "cache_size": "3968",
+  "video_quality": "20",
+  "is_h265": "0",
+  "is_cache": ,
+  "http_rtt": "127",
+  "carrier": "",
+  "group_id": "6649500391006375173",
+  "play_bitrate": "1418870",
+  "width": "720",
+  "strategy_status": "-1",
+  "video_hists": [
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": -1,
+      "internet_speed": -1,
+      "play_bitrate": -1,
+      "play_time": 14765,
+      "video_bitrate": -1
+    }
+  ],
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_play_quality",
+  "video_duration": "22",
+  "access": "WIFI",
+  "nt": "4",
+  "tcp_rtt": "36",
+  "tcp_bandwith": "2364",
+  "bitrate_set": [
+    {
+      "bit_rate": 1354630,
+      "gear_name": "normal_540",
+      "is_h265": 0,
+      "quality_type": 20
+    },
+    {
+      "bit_rate": 728543,
+      "gear_name": "lower_540",
+      "is_h265": 0,
+      "quality_type": 24
+    },
+    {
+      "bit_rate": 517687,
+      "gear_name": "lowest_540",
+      "is_h265": 0,
+      "quality_type": 25
+    }
+  ],
+  "duration": "418",
+  "multi_player": ,
+  "_event_v3": "1",
+  "video_bitrate": "1354630",
+  "signal": "-65",
+  "order": "1",
+  "height": "1280",
+  "internet_speed": "4998",
+  "is_photo": "0",
+  "use_model": "0",
+  "auto_bitrate": "1",
+  "cache_size": "3968",
+  "video_quality": "20",
+  "is_h265": "0",
+  "is_cache": ,
+  "http_rtt": "127",
+  "carrier": "",
+  "group_id": "6649500391006375173",
+  "play_bitrate": "1418870",
+  "width": "720",
+  "strategy_status": "-1",
+  "video_hists": [
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": -1,
+      "internet_speed": -1,
+      "play_bitrate": -1,
+      "play_time": 14765,
+      "video_bitrate": -1
+    }
+  ],
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "slide_up",
+  "label": "homepage_hot",
+  "from_group_id": "6649500391006375173",
+  "to_group_id": "6646513401382046982",
+  "nt": "4",
+  "author_id": "6615821913358876677",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "homepage_hot_slide_up",
+  "from_group_id": "6649500391006375173",
+  "to_group_id": "6646513401382046982",
+  "nt": "4",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "enter_play_method": "manul_play",
+  "author_id": "6615821913358876677",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "show",
+  "label": "homepage_hot",
+  "is_photo": "0",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "display": "full",
+  "enter_method": "slide",
+  "group_id": "6646513401382046982",
+  "to_user_id": "6513984688506278927",
+  "author_id": "6513984688506278927",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6646513401382046982",
+  "order": "2"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_show",
+  "feed_count": "0",
+  "enter_from": "homepage_hot",
+  "group_id": "6646513401382046982",
+  "nt": "4",
+  "_event_v3": "1",
+  "log_pb": "{"impr_id":"20190124065805010115019221437431"}",
+  "author_id": "6513984688506278927",
+  "_staging_flag": "1",
+  "order": "2"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "client_show",
+  "enter_from": "homepage_hot",
+  "group_id": "6646513401382046982",
+  "nt": "4",
+  "display": "",
+  "music_id": "6646513469967305478",
+  "_event_v3": "1",
+  "author_id": "6513984688506278927",
+  "request_id": "20190124065805010115019221437431",
+  "content": "video"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_request",
+  "label": "perf_monitor",
+  "duration": "0",
+  "group_id": "6646513401382046982",
+  "nt": "4",
+  "is_first": "0",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6646513401382046982"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "play_time",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "fps": "-1.0",
+  "enter_fullscreen": "",
+  "player_type": "TT",
+  "duration": "1162",
+  "group_id": "6649500391006375173",
+  "content_source": "",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "author_id": "6615821913358876677"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_request",
+  "duration": "0",
+  "group_id": "6646513401382046982",
+  "nt": "4",
+  "is_first": "0",
+  "_event_v3": "1",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "log_type": "app_perf",
+  "obj": {
+    "duration": "0",
+    "group_id": "6646513401382046982",
+    "is_first": "0",
+    "request_id": "20190124065805010115019221437431",
+    "nt": 4,
+    "local_time": 1548313175,
+    "event": "video_request",
+    "session_id": "a316a4d9-9edd-469a-9720-e0e7858f71d4",
+    "scene": "low_retain"
+  }
+****************************************************************************************************
+{"log_type":"video_playq","obj":{"errt":0,"re_f_audioframet":1548313173744,"df":"-1","pt":1548313174067,"vds":2869164,"pv":"3.0","tran_ft":1548313173738,"lt":0,"download_speed":1892933,"hw":0,"internal_ip":"127.0.0.1","hijack":0,"de_bu_acu_t":0,"prepare_call_t":1548313173729,"surface_set_time":1548313174066,"finish":0,"re_f_videoframet":1548313173744,"tag":"","video_codec_nameId":3,"audio_device_start_t":1548313174070,"height":1024,"video_device_opened_t":1548313174081,"decoder_type":0,"dbc":0,"wifi_identify":"d9c471b76710fca876003681b785db87","video_preload_size":0,"de_f_videoframet":1548313173800,"play_back_state":0,"video_length":15000,"cache_file":0,"audio_device_opened_t":1548313174100,"vd":22802,"et":1548313175267,"bft":0,"errc":0,"codec":"","is_start_play_automatically":0,"player_create_exception":"","at":0,"ex":{"log":""},"cur_play_pos":1105,"vs":0,"vt":1548313174085,"video_device_start_t":1548313174067,"vu":[{"gid":"","url":"http:\/\/127.0.0.1:37057?rk=v0904e610000bh3spuivu198ojr9q610_h264_540p_1354630
+  "category": "umeng",
+  "tag": "first_frame_loadtime",
+  "label": "perf_monitor",
+  "cache_size": "3077516",
+  "nt": "4",
+  "player_prepare_duration": "47",
+  "is_first": "false",
+  "is_cache": "1",
+  "player_type": "TT",
+  "player_uirender_duration": "9",
+  "videoheader_chache_duration": "0",
+  "duration": "338",
+  "videochache_prepare_duration": "13",
+  "firstframe_render_duration": "295",
+  "value": "6646513401382046982",
+  "status": "1"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_play",
+  "feed_count": "0",
+  "is_photo": "0",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "is_h265": "0",
+  "previous_page": "",
+  "enter_fullscreen": "0",
+  "player_type": "TT",
+  "group_id": "6646513401382046982",
+  "content_source": "",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "enter_play_method": "manul_play",
+  "author_id": "6513984688506278927",
+  "request_id": "20190124065805010115019221437431",
+  "order": "2"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_request_response",
+  "label": "perf_monitor",
+  "internet_speed": "4998",
+  "video_quality": "20",
+  "nt": "4",
+  "is_cache": "1",
+  "is_first": "0",
+  "is_success": "1",
+  "duration": "338",
+  "group_id": "6646513401382046982",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6646513401382046982"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "first_frame_loadtime",
+  "cache_size": "3077516",
+  "nt": "4",
+  "player_prepare_duration": "47",
+  "is_first": "false",
+  "is_cache": "1",
+  "player_type": "TT",
+  "player_uirender_duration": "9",
+  "videoheader_chache_duration": "0",
+  "duration": "338",
+  "videochache_prepare_duration": "13",
+  "group_id": "6646513401382046982",
+  "firstframe_render_duration": "295",
+  "_event_v3": "1",
+  "status": "1"
+****************************************************************************************************
+  "log_type": "app_perf",
+  "obj": {
+    "duration": "0",
+    "internet_speed": "4998",
+    "group_id": "6646513401382046982",
+    "video_quality": "20",
+    "is_cache": "1",
+    "is_first": "0",
+    "is_success": "1",
+    "request_id": "20190124065805010115019221437431",
+    "nt": 4,
+    "event": "video_request_response",
+    "session_id": "a316a4d9-9edd-469a-9720-e0e7858f71d4",
+    "scene": "low_retain",
+    "local_time": 1548313175
+  }
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_request_response",
+  "duration": "338",
+  "internet_speed": "4998",
+  "group_id": "6646513401382046982",
+  "video_quality": "20",
+  "nt": "4",
+  "is_cache": "1",
+  "is_first": "0",
+  "_event_v3": "1",
+  "is_success": "1",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_play_quality",
+  "label": "perf_monitor",
+  "video_duration": "14",
+  "access": "WIFI",
+  "nt": "4",
+  "tcp_rtt": "36",
+  "tcp_bandwith": "2364",
+  "bitrate_set": [
+    {
+      "bit_rate": 1597019,
+      "gear_name": "normal_540",
+      "is_h265": 0,
+      "quality_type": 20
+    },
+    {
+      "bit_rate": 910198,
+      "gear_name": "lower_540",
+      "is_h265": 0,
+      "quality_type": 24
+    },
+    {
+      "bit_rate": 655007,
+      "gear_name": "lowest_540",
+      "is_h265": 0,
+      "quality_type": 25
+    }
+  ],
+  "duration": "338",
+  "multi_player": ,
+  "video_bitrate": "1597019",
+  "signal": "-65",
+  "value": "6646513401382046982",
+  "order": "2",
+  "height": "900",
+  "internet_speed": "4998",
+  "is_photo": "0",
+  "use_model": "0",
+  "auto_bitrate": "1",
+  "cache_size": "3005",
+  "video_quality": "20",
+  "is_h265": "0",
+  "is_cache": ,
+  "http_rtt": "127",
+  "carrier": "",
+  "group_id": "6646513401382046982",
+  "play_bitrate": "1661493",
+  "width": "720",
+  "strategy_status": "-1",
+  "video_hists": [
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": -1,
+      "internet_speed": -1,
+      "play_bitrate": -1,
+      "play_time": 14765,
+      "video_bitrate": -1
+    },
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 3968,
+      "internet_speed": 4998,
+      "play_bitrate": 1418870,
+      "play_time": 1162,
+      "video_bitrate": 1354630
+    }
+  ],
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_play_quality",
+  "video_duration": "14",
+  "access": "WIFI",
+  "nt": "4",
+  "tcp_rtt": "36",
+  "tcp_bandwith": "2364",
+  "bitrate_set": [
+    {
+      "bit_rate": 1597019,
+      "gear_name": "normal_540",
+      "is_h265": 0,
+      "quality_type": 20
+    },
+    {
+      "bit_rate": 910198,
+      "gear_name": "lower_540",
+      "is_h265": 0,
+      "quality_type": 24
+    },
+    {
+      "bit_rate": 655007,
+      "gear_name": "lowest_540",
+      "is_h265": 0,
+      "quality_type": 25
+    }
+  ],
+  "duration": "338",
+  "multi_player": ,
+  "_event_v3": "1",
+  "video_bitrate": "1597019",
+  "signal": "-65",
+  "order": "2",
+  "height": "900",
+  "internet_speed": "4998",
+  "is_photo": "0",
+  "use_model": "0",
+  "auto_bitrate": "1",
+  "cache_size": "3005",
+  "video_quality": "20",
+  "is_h265": "0",
+  "is_cache": ,
+  "http_rtt": "127",
+  "carrier": "",
+  "group_id": "6646513401382046982",
+  "play_bitrate": "1661493",
+  "width": "720",
+  "strategy_status": "-1",
+  "video_hists": [
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": -1,
+      "internet_speed": -1,
+      "play_bitrate": -1,
+      "play_time": 14765,
+      "video_bitrate": -1
+    },
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 3968,
+      "internet_speed": 4998,
+      "play_bitrate": 1418870,
+      "play_time": 1162,
+      "video_bitrate": 1354630
+    }
+  ],
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "slide_up",
+  "label": "homepage_hot",
+  "from_group_id": "6646513401382046982",
+  "to_group_id": "6649911771786185985",
+  "nt": "4",
+  "author_id": "6513984688506278927",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "homepage_hot_slide_up",
+  "from_group_id": "6646513401382046982",
+  "to_group_id": "6649911771786185985",
+  "nt": "4",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "enter_play_method": "manul_play",
+  "author_id": "6513984688506278927",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "show",
+  "label": "homepage_hot",
+  "is_photo": "0",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "display": "full",
+  "enter_method": "slide",
+  "group_id": "6649911771786185985",
+  "to_user_id": "6545646516550483970",
+  "author_id": "6545646516550483970",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6649911771786185985",
+  "order": "3"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_show",
+  "feed_count": "0",
+  "enter_from": "homepage_hot",
+  "group_id": "6649911771786185985",
+  "nt": "4",
+  "_event_v3": "1",
+  "log_pb": "{"impr_id":"20190124065805010115019221437431"}",
+  "author_id": "6545646516550483970",
+  "_staging_flag": "1",
+  "order": "3"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "client_show",
+  "enter_from": "homepage_hot",
+  "group_id": "6649911771786185985",
+  "nt": "4",
+  "display": "",
+  "music_id": "6580426561567066885",
+  "_event_v3": "1",
+  "author_id": "6545646516550483970",
+  "request_id": "20190124065805010115019221437431",
+  "content": "video"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_request",
+  "label": "perf_monitor",
+  "duration": "0",
+  "group_id": "6649911771786185985",
+  "nt": "4",
+  "is_first": "0",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6649911771786185985"
+****************************************************************************************************
+  "log_type": "app_perf",
+  "obj": {
+    "duration": "0",
+    "group_id": "6649911771786185985",
+    "is_first": "0",
+    "request_id": "20190124065805010115019221437431",
+    "nt": 4,
+    "local_time": 1548313178,
+    "event": "video_request",
+    "session_id": "a316a4d9-9edd-469a-9720-e0e7858f71d4",
+    "scene": "low_retain"
+  }
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "play_time",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "fps": "-1.0",
+  "enter_fullscreen": "",
+  "player_type": "TT",
+  "duration": "2422",
+  "group_id": "6646513401382046982",
+  "content_source": "",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "author_id": "6513984688506278927"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_request",
+  "duration": "0",
+  "group_id": "6649911771786185985",
+  "nt": "4",
+  "is_first": "0",
+  "_event_v3": "1",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+{"log_type":"video_playq","obj":{"errt":0,"re_f_audioframet":1548313175316,"df":"-1","pt":1548313175594,"vds":3578781,"pv":"3.0","tran_ft":1548313175309,"lt":0,"download_speed":1259276,"hw":0,"internal_ip":"127.0.0.1","hijack":0,"de_bu_acu_t":0,"prepare_call_t":1548313175301,"surface_set_time":1548313175593,"finish":0,"re_f_videoframet":1548313175316,"tag":"","video_codec_nameId":3,"audio_device_start_t":1548313175595,"height":720,"video_device_opened_t":1548313175600,"decoder_type":0,"dbc":0,"wifi_identify":"d9c471b76710fca876003681b785db87","video_preload_size":0,"de_f_videoframet":1548313175360,"play_back_state":0,"video_length":14033,"cache_file":0,"audio_device_opened_t":1548313175630,"vd":14768,"et":1548313178058,"bft":0,"errc":0,"codec":"","is_start_play_automatically":0,"player_create_exception":"","at":0,"ex":{"log":""},"cur_play_pos":2381,"vs":0,"vt":1548313175603,"video_device_start_t":1548313175595,"vu":[{"gid":"","url":"http:\/\/127.0.0.1:37057?rk=v090448d0000bguihbef21ahjfupr9qg_h264_540p_1597019
+  "category": "umeng",
+  "tag": "feed_request",
+  "label": "perf_monitor",
+  "feed_tab": "FEED",
+  "duration": "0",
+  "nt": "4",
+  "is_first": "0",
+  "request_method": "load_more"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "feed_request",
+  "feed_tab": "FEED",
+  "duration": "0",
+  "nt": "4",
+  "is_first": "0",
+  "_event_v3": "1",
+  "request_method": "load_more"
+****************************************************************************************************
+  "log_type": "app_perf",
+  "obj": {
+    "feed_tab": "FEED",
+    "duration": "0",
+    "is_first": "0",
+    "request_method": "load_more",
+    "nt": 4,
+    "local_time": 1548313178,
+    "event": "feed_request",
+    "session_id": "a316a4d9-9edd-469a-9720-e0e7858f71d4",
+    "scene": "low_retain"
+  }
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_play",
+  "feed_count": "0",
+  "is_photo": "0",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "is_h265": "0",
+  "previous_page": "",
+  "enter_fullscreen": "0",
+  "player_type": "TT",
+  "group_id": "6649911771786185985",
+  "content_source": "",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "enter_play_method": "manul_play",
+  "author_id": "6545646516550483970",
+  "request_id": "20190124065805010115019221437431",
+  "order": "3"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "first_frame_loadtime",
+  "label": "perf_monitor",
+  "cache_size": "472743",
+  "nt": "4",
+  "player_prepare_duration": "64",
+  "is_first": "false",
+  "is_cache": "1",
+  "player_type": "TT",
+  "player_uirender_duration": "32",
+  "videoheader_chache_duration": "1",
+  "duration": "409",
+  "videochache_prepare_duration": "23",
+  "firstframe_render_duration": "309",
+  "value": "6649911771786185985",
+  "status": "1"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_request_response",
+  "label": "perf_monitor",
+  "internet_speed": "4998",
+  "video_quality": "35",
+  "nt": "4",
+  "is_cache": "1",
+  "is_first": "0",
+  "is_success": "1",
+  "duration": "409",
+  "group_id": "6649911771786185985",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6649911771786185985"
+****************************************************************************************************
+  "log_type": "app_perf",
+  "obj": {
+    "duration": "0",
+    "internet_speed": "4998",
+    "group_id": "6649911771786185985",
+    "video_quality": "35",
+    "is_cache": "1",
+    "is_first": "0",
+    "is_success": "1",
+    "request_id": "20190124065805010115019221437431",
+    "nt": 4,
+    "event": "video_request_response",
+    "session_id": "a316a4d9-9edd-469a-9720-e0e7858f71d4",
+    "scene": "low_retain",
+    "local_time": 1548313178
+  }
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "first_frame_loadtime",
+  "cache_size": "472743",
+  "nt": "4",
+  "player_prepare_duration": "64",
+  "is_first": "false",
+  "is_cache": "1",
+  "player_type": "TT",
+  "player_uirender_duration": "32",
+  "videoheader_chache_duration": "1",
+  "duration": "409",
+  "videochache_prepare_duration": "23",
+  "group_id": "6649911771786185985",
+  "firstframe_render_duration": "309",
+  "_event_v3": "1",
+  "status": "1"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_request_response",
+  "duration": "409",
+  "internet_speed": "4998",
+  "group_id": "6649911771786185985",
+  "video_quality": "35",
+  "nt": "4",
+  "is_cache": "1",
+  "is_first": "0",
+  "_event_v3": "1",
+  "is_success": "1",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_play_quality",
+  "label": "perf_monitor",
+  "video_duration": "10",
+  "access": "WIFI",
+  "nt": "4",
+  "tcp_rtt": "32",
+  "tcp_bandwith": "3011",
+  "bitrate_set": [
+    {
+      "bit_rate": 747699,
+      "gear_name": "normal_480",
+      "is_h265": 0,
+      "quality_type": 30
+    },
+    {
+      "bit_rate": 314036,
+      "gear_name": "lowest_480",
+      "is_h265": 0,
+      "quality_type": 35
+    },
+    {
+      "bit_rate": 212227,
+      "gear_name": "normal_360",
+      "is_h265": 0,
+      "quality_type": 40
+    }
+  ],
+  "duration": "409",
+  "multi_player": ,
+  "video_bitrate": "314036",
+  "signal": "-60",
+  "value": "6649911771786185985",
+  "order": "3",
+  "height": "480",
+  "internet_speed": "4998",
+  "is_photo": "0",
+  "use_model": "0",
+  "auto_bitrate": "1",
+  "cache_size": "461",
+  "video_quality": "35",
+  "is_h265": "0",
+  "is_cache": ,
+  "http_rtt": "16",
+  "carrier": "",
+  "group_id": "6649911771786185985",
+  "play_bitrate": "362148",
+  "width": "540",
+  "strategy_status": "-1",
+  "video_hists": [
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": -1,
+      "internet_speed": -1,
+      "play_bitrate": -1,
+      "play_time": 14765,
+      "video_bitrate": -1
+    },
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 3968,
+      "internet_speed": 4998,
+      "play_bitrate": 1418870,
+      "play_time": 1162,
+      "video_bitrate": 1354630
+    },
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 3005,
+      "internet_speed": 4998,
+      "play_bitrate": 1661493,
+      "play_time": 2422,
+      "video_bitrate": 1597019
+    }
+  ],
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_play_quality",
+  "video_duration": "10",
+  "access": "WIFI",
+  "nt": "4",
+  "tcp_rtt": "32",
+  "tcp_bandwith": "3011",
+  "bitrate_set": [
+    {
+      "bit_rate": 747699,
+      "gear_name": "normal_480",
+      "is_h265": 0,
+      "quality_type": 30
+    },
+    {
+      "bit_rate": 314036,
+      "gear_name": "lowest_480",
+      "is_h265": 0,
+      "quality_type": 35
+    },
+    {
+      "bit_rate": 212227,
+      "gear_name": "normal_360",
+      "is_h265": 0,
+      "quality_type": 40
+    }
+  ],
+  "duration": "409",
+  "multi_player": ,
+  "_event_v3": "1",
+  "video_bitrate": "314036",
+  "signal": "-60",
+  "order": "3",
+  "height": "480",
+  "internet_speed": "4998",
+  "is_photo": "0",
+  "use_model": "0",
+  "auto_bitrate": "1",
+  "cache_size": "461",
+  "video_quality": "35",
+  "is_h265": "0",
+  "is_cache": ,
+  "http_rtt": "16",
+  "carrier": "",
+  "group_id": "6649911771786185985",
+  "play_bitrate": "362148",
+  "width": "540",
+  "strategy_status": "-1",
+  "video_hists": [
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": -1,
+      "internet_speed": -1,
+      "play_bitrate": -1,
+      "play_time": 14765,
+      "video_bitrate": -1
+    },
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 3968,
+      "internet_speed": 4998,
+      "play_bitrate": 1418870,
+      "play_time": 1162,
+      "video_bitrate": 1354630
+    },
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 3005,
+      "internet_speed": 4998,
+      "play_bitrate": 1661493,
+      "play_time": 2422,
+      "video_bitrate": 1597019
+    }
+  ],
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "slide_up",
+  "label": "homepage_hot",
+  "from_group_id": "6649911771786185985",
+  "to_group_id": "6649628464796273921",
+  "nt": "4",
+  "author_id": "6545646516550483970",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "homepage_hot_slide_up",
+  "from_group_id": "6649911771786185985",
+  "to_group_id": "6649628464796273921",
+  "nt": "4",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "enter_play_method": "manul_play",
+  "author_id": "6545646516550483970",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "show",
+  "label": "homepage_hot",
+  "is_photo": "0",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "display": "full",
+  "enter_method": "slide",
+  "group_id": "6649628464796273921",
+  "to_user_id": "6528211639232774146",
+  "author_id": "6528211639232774146",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6649628464796273921",
+  "order": "4"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_show",
+  "feed_count": "0",
+  "enter_from": "homepage_hot",
+  "group_id": "6649628464796273921",
+  "nt": "4",
+  "_event_v3": "1",
+  "log_pb": "{"impr_id":"20190124065805010115019221437431"}",
+  "author_id": "6528211639232774146",
+  "_staging_flag": "1",
+  "order": "4"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "client_show",
+  "enter_from": "homepage_hot",
+  "group_id": "6649628464796273921",
+  "nt": "4",
+  "display": "",
+  "music_id": "228206394422767616",
+  "_event_v3": "1",
+  "author_id": "6528211639232774146",
+  "request_id": "20190124065805010115019221437431",
+  "content": "video"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "play_time",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "fps": "-1.0",
+  "enter_fullscreen": "",
+  "player_type": "TT",
+  "duration": "493",
+  "group_id": "6649911771786185985",
+  "content_source": "",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "author_id": "6545646516550483970"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_request",
+  "label": "perf_monitor",
+  "duration": "0",
+  "group_id": "6649628464796273921",
+  "nt": "4",
+  "is_first": "0",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6649628464796273921"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_request",
+  "duration": "0",
+  "group_id": "6649628464796273921",
+  "nt": "4",
+  "is_first": "0",
+  "_event_v3": "1",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "log_type": "app_perf",
+  "obj": {
+    "duration": "0",
+    "group_id": "6649628464796273921",
+    "is_first": "0",
+    "request_id": "20190124065805010115019221437431",
+    "nt": 4,
+    "local_time": 1548313178,
+    "event": "video_request",
+    "session_id": "a316a4d9-9edd-469a-9720-e0e7858f71d4",
+    "scene": "low_retain"
+  }
+****************************************************************************************************
+{"log_type":"video_playq","obj":{"errt":0,"re_f_audioframet":1548313178110,"df":"-1","pt":1548313178402,"vds":490438,"pv":"3.0","tran_ft":1548313178145,"lt":0,"download_speed":611437,"hw":0,"internal_ip":"127.0.0.1","hijack":0,"de_bu_acu_t":0,"prepare_call_t":1548313178089,"surface_set_time":1548313178400,"finish":0,"re_f_videoframet":1548313178110,"tag":"","video_codec_nameId":3,"audio_device_start_t":1548313178403,"height":480,"video_device_opened_t":1548313178411,"decoder_type":0,"dbc":0,"wifi_identify":"d9c471b76710fca876003681b785db87","video_preload_size":0,"de_f_videoframet":1548313178146,"play_back_state":0,"video_length":10066,"cache_file":0,"audio_device_opened_t":1548313178423,"vd":10194,"et":1548313178942,"bft":0,"errc":0,"codec":"","is_start_play_automatically":0,"player_create_exception":"","at":0,"ex":{"log":""},"cur_play_pos":455,"vs":0,"vt":1548313178416,"video_device_start_t":1548313178402,"vu":[{"gid":"","url":"http:\/\/127.0.0.1:37057?rk=v07025d70000bh4m2gka59rkngrjvrhg_h264_480p_314036
+  "category": "event_v3",
+  "tag": "video_play",
+  "feed_count": "0",
+  "is_photo": "0",
+  "enter_from": "homepage_hot",
+  "nt": "4",
+  "is_h265": "0",
+  "previous_page": "",
+  "enter_fullscreen": "0",
+  "player_type": "TT",
+  "group_id": "6649628464796273921",
+  "content_source": "",
+  "_event_v3": "1",
+  "log_pb": {
+    "impr_id": "20190124065805010115019221437431"
+  },
+  "play_mode": "normal",
+  "enter_play_method": "manul_play",
+  "author_id": "6528211639232774146",
+  "request_id": "20190124065805010115019221437431",
+  "order": "4"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "first_frame_loadtime",
+  "label": "perf_monitor",
+  "cache_size": "687880",
+  "nt": "4",
+  "player_prepare_duration": "50",
+  "is_first": "false",
+  "is_cache": "1",
+  "player_type": "TT",
+  "player_uirender_duration": "29",
+  "videoheader_chache_duration": "0",
+  "duration": "294",
+  "videochache_prepare_duration": "14",
+  "firstframe_render_duration": "221",
+  "value": "6649628464796273921",
+  "status": "1"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "first_frame_loadtime",
+  "cache_size": "687880",
+  "nt": "4",
+  "player_prepare_duration": "50",
+  "is_first": "false",
+  "is_cache": "1",
+  "player_type": "TT",
+  "player_uirender_duration": "29",
+  "videoheader_chache_duration": "0",
+  "duration": "294",
+  "videochache_prepare_duration": "14",
+  "group_id": "6649628464796273921",
+  "firstframe_render_duration": "221",
+  "_event_v3": "1",
+  "status": "1"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_request_response",
+  "label": "perf_monitor",
+  "internet_speed": "4998",
+  "video_quality": "35",
+  "nt": "4",
+  "is_cache": "1",
+  "is_first": "0",
+  "is_success": "1",
+  "duration": "294",
+  "group_id": "6649628464796273921",
+  "request_id": "20190124065805010115019221437431",
+  "value": "6649628464796273921"
+****************************************************************************************************
+  "log_type": "app_perf",
+  "obj": {
+    "duration": "0",
+    "internet_speed": "4998",
+    "group_id": "6649628464796273921",
+    "video_quality": "35",
+    "is_cache": "1",
+    "is_first": "0",
+    "is_success": "1",
+    "request_id": "20190124065805010115019221437431",
+    "nt": 4,
+    "event": "video_request_response",
+    "session_id": "a316a4d9-9edd-469a-9720-e0e7858f71d4",
+    "scene": "low_retain",
+    "local_time": 1548313179
+  }
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_request_response",
+  "duration": "294",
+  "internet_speed": "4998",
+  "group_id": "6649628464796273921",
+  "video_quality": "35",
+  "nt": "4",
+  "is_cache": "1",
+  "is_first": "0",
+  "_event_v3": "1",
+  "is_success": "1",
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "video_play_quality",
+  "label": "perf_monitor",
+  "video_duration": "15",
+  "access": "WIFI",
+  "nt": "4",
+  "tcp_rtt": "32",
+  "tcp_bandwith": "3011",
+  "bitrate_set": [
+    {
+      "bit_rate": 745349,
+      "gear_name": "normal_480",
+      "is_h265": 0,
+      "quality_type": 30
+    },
+    {
+      "bit_rate": 310453,
+      "gear_name": "lowest_480",
+      "is_h265": 0,
+      "quality_type": 35
+    },
+    {
+      "bit_rate": 302449,
+      "gear_name": "normal_360",
+      "is_h265": 0,
+      "quality_type": 40
+    }
+  ],
+  "duration": "294",
+  "multi_player": ,
+  "video_bitrate": "310453",
+  "signal": "-59",
+  "value": "6649628464796273921",
+  "order": "4",
+  "height": "400",
+  "internet_speed": "4998",
+  "is_photo": "0",
+  "use_model": "0",
+  "auto_bitrate": "1",
+  "cache_size": "671",
+  "video_quality": "35",
+  "is_h265": "0",
+  "is_cache": ,
+  "http_rtt": "16",
+  "carrier": "",
+  "group_id": "6649628464796273921",
+  "play_bitrate": "358841",
+  "width": "544",
+  "strategy_status": "-1",
+  "video_hists": [
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 3968,
+      "internet_speed": 4998,
+      "play_bitrate": 1418870,
+      "play_time": 1162,
+      "video_bitrate": 1354630
+    },
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 3005,
+      "internet_speed": 4998,
+      "play_bitrate": 1661493,
+      "play_time": 2422,
+      "video_bitrate": 1597019
+    },
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 461,
+      "internet_speed": 4998,
+      "play_bitrate": 362148,
+      "play_time": 493,
+      "video_bitrate": 314036
+    }
+  ],
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "video_play_quality",
+  "video_duration": "15",
+  "access": "WIFI",
+  "nt": "4",
+  "tcp_rtt": "32",
+  "tcp_bandwith": "3011",
+  "bitrate_set": [
+    {
+      "bit_rate": 745349,
+      "gear_name": "normal_480",
+      "is_h265": 0,
+      "quality_type": 30
+    },
+    {
+      "bit_rate": 310453,
+      "gear_name": "lowest_480",
+      "is_h265": 0,
+      "quality_type": 35
+    },
+    {
+      "bit_rate": 302449,
+      "gear_name": "normal_360",
+      "is_h265": 0,
+      "quality_type": 40
+    }
+  ],
+  "duration": "294",
+  "multi_player": ,
+  "_event_v3": "1",
+  "video_bitrate": "310453",
+  "signal": "-59",
+  "order": "4",
+  "height": "400",
+  "internet_speed": "4998",
+  "is_photo": "0",
+  "use_model": "0",
+  "auto_bitrate": "1",
+  "cache_size": "671",
+  "video_quality": "35",
+  "is_h265": "0",
+  "is_cache": ,
+  "http_rtt": "16",
+  "carrier": "",
+  "group_id": "6649628464796273921",
+  "play_bitrate": "358841",
+  "width": "544",
+  "strategy_status": "-1",
+  "video_hists": [
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 3968,
+      "internet_speed": 4998,
+      "play_bitrate": 1418870,
+      "play_time": 1162,
+      "video_bitrate": 1354630
+    },
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 3005,
+      "internet_speed": 4998,
+      "play_bitrate": 1661493,
+      "play_time": 2422,
+      "video_bitrate": 1597019
+    },
+    {
+      "block_cnt": 0,
+      "block_time": 0,
+      "cache_size": 461,
+      "internet_speed": 4998,
+      "play_bitrate": 362148,
+      "play_time": 493,
+      "video_bitrate": 314036
+    }
+  ],
+  "request_id": "20190124065805010115019221437431"
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "feed_request_response_test",
+  "feed_tab": "FEED",
+  "blockCode": "0",
+  "nt": "4",
+  "is_first": "0",
+  "request_method": "load_more",
+  "is_success": "1",
+  "image_num": "2",
+  "duration": "1975",
+  "_event_v3": "1",
+  "video_num": "4",
+  "request_id": "201901240659380101150370290276DD"
+****************************************************************************************************
+  "category": "umeng",
+  "tag": "feed_request_response",
+  "label": "perf_monitor",
+  "feed_tab": "FEED",
+  "blockCode": "0",
+  "nt": "4",
+  "is_first": "0",
+  "err_code": "-1",
+  "request_method": "load_more",
+  "is_success": "1",
+  "image_num": "2",
+  "duration": "1975",
+  "video_num": "4",
+  "network_status": {
+    "ttnet_detet_result": {
+      "source": 2,
+      "timestamp": 1548313090907,
+      "succ": 2,
+      "fail": 0,
+      "result": [
+        {
+          "url": "https://www.facebook.com/",
+          "httpcode": 200,
+          "error": 0,
+          "timeout": 0
+        },
+        {
+          "url": "https://www.google.com/",
+          "httpcode": 200,
+          "error": 0,
+          "timeout": 0
+        }
+      ]
+    }
+  }
+****************************************************************************************************
+  "category": "event_v3",
+  "tag": "feed_request_response",
+  "feed_tab": "FEED",
+  "blockCode": "0",
+  "nt": "4",
+  "is_first": "0",
+  "err_code": "-1",
+  "request_method": "load_more",
+  "is_success": "1",
+  "image_num": "2",
+  "duration": "1975",
+  "_event_v3": "1",
+  "video_num": "4",
+  "network_status": {
+    "ttnet_detet_result": {
+      "source": 2,
+      "timestamp": 1548313090907,
+      "succ": 2,
+      "fail": 0,
+      "result": [
+        {
+          "url": "https://www.facebook.com/",
+          "httpcode": 200,
+          "error": 0,
+          "timeout": 0
+        },
+        {
+          "url": "https://www.google.com/",
+          "httpcode": 200,
+          "error": 0,
+          "timeout": 0
+        }
+      ]
+    }
+  }
+****************************************************************************************************
+  "log_type": "app_perf",
+  "obj": {
+    "duration": "1975",
+    "feed_tab": "FEED",
+    "blockCode": "0",
+    "is_first": "0",
+    "err_code": "-1",
+    "video_num": "4",
+    "request_method": "load_more",
+    "is_success": "1",
+    "image_num": "2",
+    "network_status": {
+      "ttnet_detet_result": {
+        "source": 2,
+        "timestamp": 1548313090907,
+        "succ": 2,
+        "fail": 0,
+        "result": [
+          {
+            "url": "https://www.facebook.com/",
+            "httpcode": 200,
+            "error": 0,
+            "timeout": 0
+          },
+          {
+            "url": "https://www.google.com/",
+            "httpcode": 200,
+            "error": 0,
+            "timeout": 0
+          }
+        ]
+      }
+    },
+    "nt": 4,
+    "local_time": 1548313180,
+    "event": "feed_request_response",
+    "session_id": "a316a4d9-9edd-469a-9720-e0e7858f71d4",
+    "scene": "low_retain"
+  }
+****************************************************************************************************
